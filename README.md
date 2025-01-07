@@ -1,8 +1,10 @@
+<!---
 - 👋 Hi, I’m @strickland3237
 - 👀 I’m interested in Mutilpe Object Tracking
 - 🌱 I’m currently learning Mutilpe Object Tracking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me strickland3237@gmail.com
+--->
 
 <div align="center">
      <img src="./img/rotate.svg" width="30%">
